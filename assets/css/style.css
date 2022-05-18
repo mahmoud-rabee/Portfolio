@@ -783,9 +783,7 @@ section .container {
   right: 15px;
 }
 
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
+/* Portfolio Details */
 .portfolio-details {
   padding-top: 40px;
   background: rgba(0, 0, 0, 0.8);
@@ -843,7 +841,9 @@ section .container {
 .portfolio-details .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #18d26e;
 }
-
+.portfolio-details img {
+  width: 100%;
+}
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
